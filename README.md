@@ -1,12 +1,16 @@
 # FINAL_REPORT
-# ΛΑΡΕΝΤΖΑΚΗΣ ΝΙΚΟΛΑΟΣ
-# ΑΜ: Π2018220
+# ΜΑΘΗΜΑ: Επικοινωνία ανθρώπου-υπολογιστή
 
+### Ονοματεπώνυμο: Λαρεντζάκης Νικόλαος
+### Αριθμός Μητρώου: Π2018220
+### [Προφίλ στο github](https://github.com/cyclenikolaos)
+### [Σύνδεσμος αποθετηρίου του μαθήματος HCI](https://github.com/cyclenikolaos/hci)
 
 # ΤΙΤΛΟΣ:
 ## Τελική αναφορά για τις ασκήσεις καθώς και για το συμμετοχικό περιεχόμενο στα πλαίσια του μαθήματος HCI του Γ’ εξαμήνου.
 
 # ΣΥΝΟΨΗ:
+
 ## Υλοποίηση τεσσάρων ασκήσεων:
 ### Set-up the main dependencies and demonstrate your base system
 ### Get familiar with basic commands, reading documentation and editing files
