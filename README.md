@@ -139,21 +139,26 @@
 
 ## ΣΥΜΜΕΤΟΧΙΚΗ ΕΡΓΑΣΙΑ
 
-### ΠΑΡΑΔΟΤΕΟ Β:
-### Δύο νέα διαδραστικά παραδείγματα τα οποία θα πρέπει να συνδέονται με βασικές έννοιες του βιβλίου και της διάδρασης ανθρώπου-υπολογιστή και να επιτρέπουν σε κάποιον 2ο χρήστη να τα αλλάξει ή/και να τα προσθέσει σε διαφορετικές εφαρμογές ως αρχέτυπα.
+### ΠΑΡΑΔΟΤΕΟ Α:
+### Εισαγωγή πέντε νέων εικόνων με ελεύθερα πνευματικά δικαιώματα, με λεζάντα
 
 #### [Σύνδεσμος αποθετηρίου του μαθήματος gr](https://github.com/cyclenikolaos/gr)
-#### [Σύνδεσμος εκτελέσιμου](https://cyclenikolaos.github.io/gr)
+#### [Σύνδεσμος εκτελέσιμου](https://cyclenikolaos.github.io/gr/)
 
-### Πρώτο παράδειγμα:
-#### SoundCloud Mini player with css record animation
-#### Εισαγωγή του κωδικού του συγκεκριμένου μουσικού κομματιού από το JS του codepen
-#### Σύνδεσμοι πρώτου παραδείγματος (SoundCloud Mini player with css record animation):
-#### [Link στο mibook του παραδείγματος audio-player](https://cyclenikolaos.github.io/gr/remix/audio-player/)
-### Δεύτερο παράδειγμα:
-#### Τροποποίηση του κώδικα CSS και HTML για αλλαγές στη μορφή του κυκλικού μενού
-#### Σύνδεσμοι δεύτερου παραδείγματος(Circular Navigation example):
-#### [Link στο mibook του παραδείγματος circular navigation example](https://cyclenikolaos.github.io/gr/remix/menu-pie/)
+#### 1η φωτογραφία: "INDUSTRIAL COMPUTER"
+#### [Σύνδεσμος εκτελέσιμου INDUSTRIAL COMPUTER](https://cyclenikolaos.github.io/gr/gallery/A7100/)
+
+#### 2η φωτογραφία: "HOME COMPUTERS"
+#### [Σύνδεσμος εκτελέσιμου HOME COMPUTERS](https://cyclenikolaos.github.io/gr/gallery/oric-atmos/)
+
+#### 3η φωτογραφία: "INDUSTRIAL COMPUTING"
+#### [Σύνδεσμος εκτελέσιμου INDUSTRIAL COMPUTING](https://cyclenikolaos.github.io/gr/gallery/CAD-CAM/)
+
+#### 4η φωτογραφία: "SMARTPHONE FOR BLIND"
+#### [Σύνδεσμος εκτελέσιμου SMARTPHONE FOR BLIND](https://cyclenikolaos.github.io/gr/gallery/smartphone-for-blind/)
+
+#### 5η φωτογραφία: "SELF DRIVING CAR"
+#### [Σύνδεσμος εκτελέσιμου SELF DRIVING CAR](https://cyclenikolaos.github.io/gr/gallery/google-self-driving-car/)
 
 # ΣΥΜΠΕΡΑΣΜΑΤΑ:
 ### ************************************************************************************************
