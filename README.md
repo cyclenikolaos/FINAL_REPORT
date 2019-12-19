@@ -16,7 +16,7 @@
    Έκανα εγκατάσταση του VM virtual box στα Windows 10 και του linux Ubuntu 18.04.3 LTS. Εγκατέστησα το vi text editor ώστε να μπορώ να τροποποιήσω το batch file ώστε να αλλάξω το prompt όπως απαιτούσε η εκφώνηση. Επίσης εγκατέστησα το neofetch προκειμένου να παρουσιάσω τις απαιτούμενες πληροφορίες για το σύστημα και το ranger ως εργαλείο χειρισμού των φακέλων και των αρχείων του συστήματος. Εγκατέστησα και δούλεψα πάνω στην εφαρμογή todo η οποία χρησιμοποιείται ως σημειωματάριο στο linux με εργασίες που θα γίνουν από το χρήστη. Τέλος, εγκατέστησα το calcurse και παρουσίασα τις δυνατότητες που έχει στην οργάνωση ενός ημερολογίου και τη συνεργασία του με την εφαρμογή todo. Για την τεκμηρίωση των ζητουμένων, εγκατέστησα την εφαρμογή asciinema ώστε να εγκαταστήσω on line τα video που δημιούργησα κατά την εκτέλεση.   
 
 # ΑΠΟΤΕΛΕΣΜΑΤΑ ΜΕ ΛΕΖΑΝΤΕΣ ΣΕ ΕΝΔΕΙΚΤΙΚΕΣ ΟΘΟΝΕΣ:
-### ****************************************************************************
+
 
 # ΠΑΡΑΔΟΤΕΟ 1:
 
@@ -54,45 +54,6 @@
 ### Τεκμηρίωση ζητούμενων: 
 
 #### [Σύνδεσμος στο asciinema για την εκπλήρωση των ζητούμενων:](https://asciinema.org/a/278747)
-
-
-## ΣΥΜΜΕΤΟΧΙΚΗ ΕΡΓΑΣΙΑ
-
-### ΠΑΡΑΔΟΤΕΟ Α:
-### Εισαγωγή πέντε νέων εικόνων με ελεύθερα πνευματικά δικαιώματα, με λεζάντα
-
-#### [Σύνδεσμος αποθετηρίου του μαθήματος gr](https://github.com/cyclenikolaos/gr)
-#### [Σύνδεσμος αποθετηρίου του αρχείου _config.yml](https://github.com/cyclenikolaos/gr/blob/gh-pages/_config.yml)
-
-#### 1η φωτογραφία: "INDUSTRIAL COMPUTER"
-#### Σύνδεσμοι:
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/A7100.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/A7100-thumb.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/_gallery/A7100.md
-
-#### 2η φωτογραφία: "HOME COMPUTERS"
-#### Σύνδεσμοι:
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/oric-atmos.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/oric-atmos-thumb.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/_gallery/oric-atmos.md
-
-#### 3η φωτογραφία: "INDUSTRIAL COMPUTING"
-#### Σύνδεσμοι:
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/CAD-CAM.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/CAD-CAM-thumb.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/_gallery/CAD-CAM.md
-
-#### 4η φωτογραφία: "SMARTPHONE FOR BLIND"
-#### Σύνδεσμοι:
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/smartphone-for-blind.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/smartphone-for-blind-thumb.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/_gallery/smartphone-for-blind.md
-
-#### 5η φωτογραφία: "SELF DRIVING CAR"
-#### Σύνδεσμοι:
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/google-self-driving-car.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/google-self-driving-car-thumb.jpg
-#### Link: https://github.com/cyclenikolaos/gr/blob/gh-pages/images/google-self-driving-car.md
 
 
 # ΠΑΡΑΔΟΤΕΟ 2:
