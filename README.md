@@ -17,13 +17,13 @@
 
 # ΕΝΔΕΙΚΤΙΚΕΣ ΟΘΟΝΕΣ:
 
-#### Προβολή πληροφοριών του συστήματος
+#### Προβολή πληροφοριών του συστήματος:
 ![1](https://github.com/cyclenikolaos/FINAL_REPORT/blob/master/ergasia1.png)
 
-#### Ranger
+#### Ranger:
 ![2](https://github.com/cyclenikolaos/FINAL_REPORT/blob/master/ergasia2.png)
 
-#### Calcurse
+#### Calcurse:
 ![3](https://github.com/cyclenikolaos/FINAL_REPORT/blob/master/ergasia4.png)
 
 
