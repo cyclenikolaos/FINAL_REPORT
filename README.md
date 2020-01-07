@@ -34,10 +34,10 @@
 ![1](ergasia1.png)
 
 #### Ranger:
-![2](https://github.com/cyclenikolaos/FINAL_REPORT/blob/master/ergasia2.png)
+![2](ergasia2.png)
 
 #### Calcurse:
-![3](https://github.com/cyclenikolaos/FINAL_REPORT/blob/master/ergasia4.png)
+![3](ergasia4.png)
 
 
 # ΠΑΡΑΔΟΤΕΟ 1:
