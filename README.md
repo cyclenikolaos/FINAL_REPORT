@@ -31,7 +31,7 @@
 # ΕΝΔΕΙΚΤΙΚΕΣ ΟΘΟΝΕΣ:
 
 #### Προβολή πληροφοριών του συστήματος:
-![1](https://github.com/cyclenikolaos/FINAL_REPORT/blob/master/ergasia1.png)
+![1](ergasia1.png)
 
 #### Ranger:
 ![2](https://github.com/cyclenikolaos/FINAL_REPORT/blob/master/ergasia2.png)
