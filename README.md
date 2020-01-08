@@ -132,6 +132,21 @@
 #### 5η φωτογραφία: "SELF DRIVING CAR"
 #### [Σύνδεσμος εκτελέσιμου SELF DRIVING CAR](https://cyclenikolaos.github.io/gr/gallery/google-self-driving-car/)
 
+### ΠΑΡΑΔΟΤΕΟ Β:
+### Δύο νέα διαδραστικά παραδείγματα τα οποία θα πρέπει να συνδέονται με βασικές έννοιες του βιβλίου και της διάδρασης ανθρώπου-υπολογιστή και να επιτρέπουν σε κάποιον 2ο χρήστη να τα αλλάξει ή/και να τα προσθέσει σε διαφορετικές εφαρμογές ως αρχέτυπα.
+
+#### [Σύνδεσμος αποθετηρίου του μαθήματος gr](https://github.com/cyclenikolaos/gr)
+#### [Σύνδεσμος εκτελέσιμου](https://cyclenikolaos.github.io/gr)
+
+### Πρώτο παράδειγμα: SoundCloud Mini player with css record animation
+#### [Σύνδεσμος αποθετηρίου Audio Player](https://github.com/cyclenikolaos/gr/blob/gh-pages/_remix/audio-player.md)
+#### [Link στο mibook του παραδείγματος Audio-player](https://cyclenikolaos.github.io/gr/remix/audio-player/)
+
+### Δεύτερο παράδειγμα Menu-pie:
+#### [Σύνδεσμος αποθετηρίου Menu-pie](https://github.com/cyclenikolaos/gr/blob/gh-pages/_remix/menu-pie.md)
+#### [Link στο mibook του παραδείγματος circular navigation example](https://cyclenikolaos.github.io/gr/remix/menu-pie/)
+
+
 # ΣΥΜΠΕΡΑΣΜΑΤΑ:
    Για την εκπόνηση των εργασιών χρειάστηκε η εξοικίωση με το περιβάλλον Linux και εργαλείων του. Η εξοικίωση με το github ήταν απαραίτητη. Έγινε κατανοητό πώς αυτό αποτελεί δίκτυο διασύνδεσης των προγραμματιστών και πώς μπορείς μέσα σ'αυτό, να δημιουργήσεις το δικό σου χώρο, πώς να ανεβάσεις δικό σου κώδικα, φωτογραφίες και αρχεία κειμένου και πώς έχεις πρόσβαση σε αρχεία άλλων χρηστών. Επίσης, 
 πήρα βασικές γνώσεις για το πώς μπορείς στην πλατφόρμα codepen να χειριστής κώδικα HTML, CSS και JavaScript και να δεις άμεσα τα αποτελέσματα των αλλαγών που πραγματοποιείς
